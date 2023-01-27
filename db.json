@@ -1,0 +1,36 @@
+{
+    "admin":[
+        {
+            "id": 1,
+            "name": "juan",
+            "password":"j@email.com"
+        },
+        {
+            "id": 1,
+            "name": "juan",
+            "password":"j@email.com"
+        },
+        {
+            "id": 1,
+            "name": "juan",
+            "password":"j@email.com"
+        }
+    ],
+    "users":[
+        {
+            "id": 1,
+            "name": "juan",
+            "password":"j@email.com"
+        },
+        {
+            "id": 1,
+            "name": "juan",
+            "password":"j@email.com"
+        },
+        {
+            "id": 1,
+            "name": "juan",
+            "password":"j@email.com"
+        }
+    ]
+}
